@@ -13,6 +13,7 @@ Maximum number of flights headed to some particular destination.
 
 
 # Variable Description
+============================================================
 year	2013 
 month	1-12 
 day	Day of the month (1-31) 
